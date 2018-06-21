@@ -17,4 +17,4 @@ Neste pacote você pode encontrar jogos como
 - SpiderSolitaire
 - SURVIVOR 
 
-(Repositório oficial do pacote)[https://github.com/Rlesur/Rcade]
+[Repositório oficial do pacote](https://github.com/Rlesur/Rcade)
