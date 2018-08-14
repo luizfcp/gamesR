@@ -1,5 +1,8 @@
 # install.packages("devtools")
-devtools::install_github('RLesur/Rcade')
+#devtools::install_github('RLesur/Rcade')
+
+if (!require(devtools)) install.packages("devtools")
+if (!require(Rcade)) install_github('RLesur/Rcade')
 
 # verificar quais jogos estão instalados 
 Rcade::games
