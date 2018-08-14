@@ -9,8 +9,14 @@ Rcade::games
 
 # para jogar é só selecionar o jogo
 
-Rcade::games$`2048`     # Para jogar 2048
-
-Rcade::games$Pacman     # Para jogar PacMan
-
-Rcade::games$Mariohtml5 # Para jogar Mario Bros
+Rcade::games$`2048`
+Rcade::games$BoulderDash 
+Rcade::games$CathTheEgg 
+Rcade::games$Core 
+Rcade::games$CustomTetris 
+Rcade::games$GreenMahjong 
+Rcade::games$Mariohtml5 
+Rcade::games$Pacman 
+Rcade::games$Pond 
+Rcade::games$SpiderSolitaire 
+Rcade::games$SURVIVOR
