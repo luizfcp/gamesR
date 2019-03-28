@@ -2,8 +2,6 @@
 
 ## Pacote RCADE
 
-O pacote Rcade tem como objetivo desperdiçar seu tempo no RStudio kkk 
-
 Neste pacote você pode encontrar jogos como
 - 2048 
 - BoulderDash 
